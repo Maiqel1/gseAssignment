@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+nav ul li{
+   display: inline-flex;
+    margin: auto;
+
+}
+
+nav h2{
+    color: white;
+}
+
+ul{
+  float: right;
+    margin-right: 40px;
+    margin-top:-25px;
+}
+
+ul li a{
+    margin-right: 35px;
+}
+
+nav{
+    background-image: url(img1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+   
+
+}
+
